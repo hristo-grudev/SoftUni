@@ -11,8 +11,10 @@ for _ in range(number_of_queries):
 		if s:
 			s.pop()
 	elif command == '3':
-		print(max(s))
+		if s:
+			print(max(s))
 	elif command == '4':
-		print(min(s))
+		if s:
+			print(min(s))
 
-print(', '.join(str(el) for el in s[::-1]))
+print(', '.join([str(el) for el in reversed(s)]))
