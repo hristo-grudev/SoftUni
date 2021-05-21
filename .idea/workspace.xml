@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02. 2x2 Squares in Matrix">
+  <component name="RunManager" selected="Python.03. Maximum Sum">
     <configuration name="01. Diagonal Difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Tuples and Sets - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Tuples and Sets - Exercise/05. Phonebook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Longest Intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Primary Diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Tuples and Sets - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Tuples and Sets - Exercise/06. Longest Intersection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Lab/03. Primary Diagonal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03. Maximum Sum" />
+        <item itemvalue="Python.03. Primary Diagonal" />
         <item itemvalue="Python.02. 2x2 Squares in Matrix" />
         <item itemvalue="Python.02. Sum Matrix Columns" />
         <item itemvalue="Python.01. Diagonal Difference" />
-        <item itemvalue="Python.06. Longest Intersection" />
-        <item itemvalue="Python.05. Phonebook" />
       </list>
     </recent_temporary>
   </component>
