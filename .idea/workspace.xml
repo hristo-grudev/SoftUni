@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/06. Knight Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/06. Knight Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,8 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03. Even Matrix">
-    <configuration name="01. ASCII Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07. Flatten Lists">
+    <configuration name="03. Capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +45,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab/01. ASCII Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/03. Capitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. No Vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Number Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab/02. No Vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/04. Number Classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Even Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Diagonals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab/03. Even Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/05. Diagonals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Filter Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. Matrix of Palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Lab/05. Filter Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/06. Matrix of Palindromes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Snake Moves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Flatten Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/05. Snake Moves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/07. Flatten Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03. Even Matrix" />
-        <item itemvalue="Python.05. Filter Numbers" />
-        <item itemvalue="Python.02. No Vowels" />
-        <item itemvalue="Python.01. ASCII Values" />
-        <item itemvalue="Python.05. Snake Moves" />
+        <item itemvalue="Python.07. Flatten Lists" />
+        <item itemvalue="Python.06. Matrix of Palindromes" />
+        <item itemvalue="Python.05. Diagonals" />
+        <item itemvalue="Python.04. Number Classification" />
+        <item itemvalue="Python.03. Capitals" />
       </list>
     </recent_temporary>
   </component>
