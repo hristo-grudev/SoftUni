@@ -3,7 +3,7 @@ def read_matrix():
 	rows, cols = map(int, data.split(' '))
 	matrix_list = []
 	for row in range(rows):
-		row_data = list(map(int, input().split(' ')))
+		row_data = input().split(' ')
 		matrix_list.append(row_data)
 	return matrix_list
 
