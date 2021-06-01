@@ -4,6 +4,8 @@
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/04. Matrix Shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/04. Matrix Shuffling.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02. 2x2 Squares in Matrix">
+  <component name="RunManager" selected="Python.04. Matrix Shuffling">
     <configuration name="02. 2x2 Squares in Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08. Heroes Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/08. Heroes Inventory.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09. Bunker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Matrix Shuffling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/09. Bunker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/04. Matrix Shuffling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04. Matrix Shuffling" />
+        <item itemvalue="Python.03. Maximum Sum" />
         <item itemvalue="Python.02. 2x2 Squares in Matrix" />
         <item itemvalue="Python.02. Sum Matrix Columns" />
         <item itemvalue="Python.10. Matrix Modification" />
-        <item itemvalue="Python.09. Bunker" />
-        <item itemvalue="Python.08. Heroes Inventory" />
       </list>
     </recent_temporary>
   </component>

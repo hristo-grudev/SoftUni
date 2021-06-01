@@ -1,9 +1,9 @@
 def read_matrix():
 	data = input()
-	rows, cols = map(int, data.split(' '))
+	rows, cols = map(int, data.split())
 	matrix_list = []
 	for row in range(rows):
-		row_data = input().split(' ')
+		row_data = input().split()
 		matrix_list.append(row_data)
 	return matrix_list
 

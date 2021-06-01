@@ -3,12 +3,13 @@ import sys
 
 def read_matrix():
 	data = input()
-	rows, cols = map(int, data.split(' '))
+	rows, cols = map(int, data.split())
 	matrix_list = []
 	for row in range(rows):
-		row_data = list(map(int, input().split(' ')))
+		row_data = list(map(int, input().split()))
 		matrix_list.append(row_data)
 	return matrix_list
+
 
 
 matrix = read_matrix()
@@ -33,7 +34,7 @@ for row_index in range(len(matrix) - 2):
 				sub_matrix[row_counter].append(matrix[r][c])
 				current_sum += matrix[r][c]
 			row_counter += 1
-		if current_sum > best_sum:
+		if current_sum >= best_sum:
 			best_sum = current_sum
 			best_matrix = sub_matrix
 
