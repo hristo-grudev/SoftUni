@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/04. Matrix Shuffling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/04. Matrix Shuffling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/01. Even Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/01. Even Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/02. Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/02. Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/03. Min Max and Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/03. Min Max and Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/04. Negative vs Positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/04. Negative vs Positive.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +40,8 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04. Matrix Shuffling">
-    <configuration name="02. 2x2 Squares in Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04. Negative vs Positive">
+    <configuration name="01. Even Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/02. 2x2 Squares in Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/01. Even Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Sum Matrix Columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Lab/02. Sum Matrix Columns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/02. Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Maximum Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Min Max and Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Multidimensional Lists - Exercise/03. Maximum Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/03. Min Max and Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10. Matrix Modification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Negative vs Positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Comprehensions - Exercise/10. Matrix Modification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Functions Advanced - Exercise/04. Negative vs Positive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04. Negative vs Positive" />
+        <item itemvalue="Python.03. Min Max and Sum" />
+        <item itemvalue="Python.02. Sort" />
+        <item itemvalue="Python.01. Even Numbers" />
         <item itemvalue="Python.04. Matrix Shuffling" />
-        <item itemvalue="Python.03. Maximum Sum" />
-        <item itemvalue="Python.02. 2x2 Squares in Matrix" />
-        <item itemvalue="Python.02. Sum Matrix Columns" />
-        <item itemvalue="Python.10. Matrix Modification" />
       </list>
     </recent_temporary>
   </component>
