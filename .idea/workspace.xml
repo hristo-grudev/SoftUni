@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/1. Numbers Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/2. Email Validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/1. So Many Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/2. Value Cannot Be Negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/3. Repeat Text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/3. Repeat Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/3. Repeat Text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
