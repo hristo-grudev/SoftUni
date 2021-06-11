@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Exercise/1. Global window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Exercise/2. Login and register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Exercise/3. List all product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Exercise/4. BONUS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/1. Calculate Logarithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/2. ASCII Art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/3. Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/4. Mathematical operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/5. Fibonacci Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/fibonacci_sequence/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/fibonacci_sequence/fibonacci_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/math_operation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/math_operation/math_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/math_operation/operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/triangle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Modules - Lab/triangle/draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/1. Numbers Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/2. Email Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/1. So Many Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/2. Value Cannot Be Negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Lab/3. Repeat Text.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
