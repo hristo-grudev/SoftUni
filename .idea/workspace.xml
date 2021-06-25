@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/custom_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 16.12.2020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 24.10.2020 - 01. Scheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 24.10.2020 - 02. Checkmate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 24.10.2020 - 03. List Pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 14.02.2021 - 02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/1. Numbers Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/1. Numbers Dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/2. Email Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced/Error Handling - Exercise/2. Email Validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +41,8 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem 24.10.2020 - 03. List Pureness">
-    <configuration name="5. Fibonacci Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Problem 24.10.2020 - 01. Scheduling">
+    <configuration name="Problem 24.10.2020 - 01. Scheduling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Modules - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Exam Prepartion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Modules - Lab/5. Fibonacci Sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 24.10.2020 - 01. Scheduling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,20 +169,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5. Fibonacci Sequence" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate (1)" />
       <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate" />
       <item itemvalue="Python.Problem 24.10.2020 - 03. List Pureness" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.Problem 24.10.2020 - 01. Scheduling" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 24.10.2020 - 01. Scheduling" />
         <item itemvalue="Python.Problem 24.10.2020 - 03. List Pureness" />
         <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate" />
-        <item itemvalue="Python.5. Fibonacci Sequence" />
       </list>
     </recent_temporary>
   </component>
