@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 27.06.21 - 02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 27.06.21 - 03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/01. Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/02. Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/03. Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/04. Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/05. Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/06. Steam User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/07. Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/08. Pokemon Battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/01. Rhombus of Stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/02. Scope Mess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/03. Class Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/04. Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/05. Music.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +53,28 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem 24.10.2020 - 01. Scheduling">
+  <component name="RunManager" selected="Python.01. Rhombus of Stars">
+    <configuration name="01. Rhombus of Stars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/First Steps in OOP - Lab/01. Rhombus of Stars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Problem 24.10.2020 - 01. Scheduling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +109,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/Exam Prepartion/Problem 24.10.2020 - 02. Checkmate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem 24.10.2020 - 02. Checkmate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/Exam Prepartion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projects\SoftUni\Python Advanced\Exam Prepartion\Problem 24.10.2020 - 02. Checkmate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,18 +183,18 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate (1)" />
-      <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate" />
       <item itemvalue="Python.Problem 24.10.2020 - 03. List Pureness" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Problem 24.10.2020 - 01. Scheduling" />
+      <item itemvalue="Python.01. Rhombus of Stars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01. Rhombus of Stars" />
         <item itemvalue="Python.Problem 24.10.2020 - 01. Scheduling" />
         <item itemvalue="Python.Problem 24.10.2020 - 03. List Pureness" />
         <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate (1)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Problem 24.10.2020 - 02. Checkmate" />
       </list>
     </recent_temporary>
   </component>
