@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/06. Guild System.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +28,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python Advanced/Exam Prepartion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/05. To-do List" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\05. To-do List" />
       <recent name="D:\Projects\SoftUni\Python Advanced\Exam Prepartion" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
