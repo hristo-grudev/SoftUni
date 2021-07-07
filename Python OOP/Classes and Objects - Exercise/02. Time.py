@@ -21,7 +21,8 @@ class Time:
 
 	def next_second(self):
 		new_time = datetime.datetime.strptime(f'{self.hours}:{self.minutes}:{self.seconds}', '%H:%M:%S') + datetime.timedelta(seconds=1)
-		return new_time
+		str_time = new_time.strftime('')
+		return new_time.strftime
 
 
 time = Time(9, 30, 59)

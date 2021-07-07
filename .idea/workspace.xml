@@ -4,6 +4,8 @@
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/02. Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/02. Time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/01. Vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/01. Vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/05. Smartphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/05. Smartphone.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,10 +167,10 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.04. Car" />
-      <item itemvalue="Python tests.Unittests in test.py" />
       <item itemvalue="Python.01. Shop" />
       <item itemvalue="Python.01. Vet" />
       <item itemvalue="Python.02. Time" />
+      <item itemvalue="Python tests.Unittests in test.py" />
     </list>
     <recent_temporary>
       <list>
