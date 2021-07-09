@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/song.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/02. Time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/02. Time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/03. Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/03. Account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/04. Pizza Delivery.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/04. Pizza Delivery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/05. To-do List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/01. Vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/01. Vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/02. Point.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/02. Point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/03. Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/03. Circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/04. Glass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Lab/04. Glass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/05. To-do List" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\07. Spoopify" />
       <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\05. To-do List" />
       <recent name="D:\Projects\SoftUni\Python Advanced\Exam Prepartion" />
     </key>
@@ -49,28 +45,7 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04. Pizza Delivery">
-    <configuration name="01. Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/First Steps in OOP - Exercise/01. Shop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.band">
     <configuration name="01. Vet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,6 +109,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/album.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="band" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/band.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,35 +172,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/06. Guild System/test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.01. Shop" />
       <item itemvalue="Python.01. Vet" />
       <item itemvalue="Python.02. Time" />
-      <item itemvalue="Python tests.Unittests in test.py" />
       <item itemvalue="Python.04. Pizza Delivery" />
+      <item itemvalue="Python.album" />
+      <item itemvalue="Python.band" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.band" />
+        <item itemvalue="Python.album" />
         <item itemvalue="Python.04. Pizza Delivery" />
         <item itemvalue="Python.02. Time" />
         <item itemvalue="Python.01. Vet" />
-        <item itemvalue="Python.01. Shop" />
-        <item itemvalue="Python tests.Unittests in test.py" />
       </list>
     </recent_temporary>
   </component>
