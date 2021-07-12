@@ -23,7 +23,7 @@ class Album:
 			return f'Song is not in the album.'
 		song = filtered_songs[0]
 		self.song.remove(song)
-		return f'Removed song {song_name} form album {self.name}.'
+		return f'Removed song {song_name} from album {self.name}.'
 
 	def publish(self):
 		if self.published:
