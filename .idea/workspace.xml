@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/03. Multiple Inheritance/project/teacher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/album.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/band.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/song.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/project.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/project.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test.py (1)">
+  <component name="RunManager" selected="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py">
     <configuration name="04. Pizza Delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test.py (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +151,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,13 +170,13 @@
       <item itemvalue="Python.04. Pizza Delivery" />
       <item itemvalue="Python.album" />
       <item itemvalue="Python.band" />
-      <item itemvalue="Python tests.Unittests in test.py" />
-      <item itemvalue="Python tests.Unittests in test.py (1)" />
+      <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" />
+      <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test.py (1)" />
-        <item itemvalue="Python tests.Unittests in test.py" />
+        <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
+        <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" />
         <item itemvalue="Python.band" />
         <item itemvalue="Python.album" />
         <item itemvalue="Python.04. Pizza Delivery" />
