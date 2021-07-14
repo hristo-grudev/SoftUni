@@ -2,16 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/01. Food/project/fruit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/03. Multiple Inheritance/project/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/bear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/blade_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/dark_knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/dark_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/muse_elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/cross_motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/family_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/race_motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/sport_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/06. Stack of Strings/Stack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/animal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +58,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person/project" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\SoftUni\Python OOP\Inheritance - Exercise\01. Person\project" />
       <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\07. Spoopify" />
       <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\05. To-do List" />
       <recent name="D:\Projects\SoftUni\Python Advanced\Exam Prepartion" />
@@ -52,8 +74,8 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py">
-    <configuration name="04. Pizza Delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.car">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/04. Pizza Delivery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="album" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="family_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/album.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/family_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="band" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/07. Spoopify/band.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/hero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,6 +159,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/vehicle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,35 +194,21 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.04. Pizza Delivery" />
-      <item itemvalue="Python.album" />
-      <item itemvalue="Python.band" />
-      <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" />
       <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
+      <item itemvalue="Python.hero" />
+      <item itemvalue="Python.vehicle" />
+      <item itemvalue="Python.family_car" />
+      <item itemvalue="Python.car" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.car" />
+        <item itemvalue="Python.family_car" />
+        <item itemvalue="Python.vehicle" />
+        <item itemvalue="Python.hero" />
         <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
-        <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/test.py" />
-        <item itemvalue="Python.band" />
-        <item itemvalue="Python.album" />
-        <item itemvalue="Python.04. Pizza Delivery" />
       </list>
     </recent_temporary>
   </component>
