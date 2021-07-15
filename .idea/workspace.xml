@@ -2,37 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters/project/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Lab/06. Stack of Strings/Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/01. Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/02. Mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/03. Players and Monsters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/04. Need for Speed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/02. Zoo/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/drink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product_repository.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
