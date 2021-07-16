@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/01. Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/02. Mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/02. Pizza Maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/03. Football Team Generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/04. Restaurant/project/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/drink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/05. Shop/project/product_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +44,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Inheritance - Exercise/01. Person/project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/04. Restaurant" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\SoftUni\Python OOP\Encapsulation - Exercise\04. Restaurant" />
+      <recent name="D:\Projects\SoftUni\Python OOP\Encapsulation - Exercise\03. Football Team Generator" />
+      <recent name="D:\Projects\SoftUni\Python OOP\Encapsulation - Exercise\02. Pizza Maker" />
       <recent name="D:\Projects\SoftUni\Python OOP\Inheritance - Exercise\01. Person\project" />
       <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\07. Spoopify" />
-      <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\05. To-do List" />
-      <recent name="D:\Projects\SoftUni\Python Advanced\Exam Prepartion" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\SoftUni\Python OOP\Classes and Objects - Exercise\project" />
