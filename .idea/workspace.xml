@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/02. Pizza Maker/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/03. Football Team Generator/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/04. Restaurant/project/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/03. Profile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/04. Email Validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Lab/05. Account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
