@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/animal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/caretaker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/cheetah.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/keeper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/lion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/tiger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/vet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/worker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/zoo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.car">
+  <component name="RunManager" selected="Python tests.Unittests in test.py">
     <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,35 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Python OOP/Classes and Objects - Exercise/project/test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Python OOP/Encapsulation - Exercise/01. Wild Cat Zoo/project/test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
       <item itemvalue="Python.hero" />
       <item itemvalue="Python.vehicle" />
       <item itemvalue="Python.family_car" />
       <item itemvalue="Python.car" />
+      <item itemvalue="Python tests.Unittests in test.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test.py" />
         <item itemvalue="Python.car" />
         <item itemvalue="Python.family_car" />
         <item itemvalue="Python.vehicle" />
         <item itemvalue="Python.hero" />
-        <item itemvalue="Python tests.Unittests in D:/Projects/SoftUni/Python OOP/Classes and Objects - Exercise/project/test.py" />
       </list>
     </recent_temporary>
   </component>
