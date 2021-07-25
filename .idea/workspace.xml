@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/project/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/02. Encryption Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/03. Image Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/04. Playing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/05. Shapes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +212,7 @@
       <updated>1606994251024</updated>
       <workItem from="1626931737905" duration="473000" />
       <workItem from="1627196266825" duration="85000" />
-      <workItem from="1627196477654" duration="16925000" />
+      <workItem from="1627196477654" duration="17734000" />
     </task>
     <servers />
   </component>
