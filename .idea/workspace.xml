@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/02. Encryption Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/03. Image Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/04. Playing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Lab/05. Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/01. Vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/02. Groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/03. Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/04. Wild Farm/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Polymorphism and Abstraction - Exercise/05. Animals/project/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,10 +193,10 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.01. Photo Album" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.check" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test (2)" />
-      <item itemvalue="Python.check" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
@@ -230,12 +236,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SoftUni$test.coverage" NAME="test Coverage Results" MODIFIED="1627210519953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/02. Movie World" />
-    <SUITE FILE_PATH="coverage/SoftUni$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1627214094363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/03. Document Management" />
-    <SUITE FILE_PATH="coverage/SoftUni$01__Photo_Album.coverage" NAME="01. Photo Album Coverage Results" MODIFIED="1627205569091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise" />
-    <SUITE FILE_PATH="coverage/SoftUni$check.coverage" NAME="check Coverage Results" MODIFIED="1627220876452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym" />
-    <SUITE FILE_PATH="coverage/SoftUni$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1627220916130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Static and Class Methods - Exercise/04. Gym" />
   </component>
 </project>
