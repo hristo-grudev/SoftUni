@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/01. Take Skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/02. Dictionary Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/03. Countdown Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/04. Sequence Repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/05. Take Halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/06. Fibonacci Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/07. Reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/08. Prime Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/09. Possible permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/01. Logged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/02. Even Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/03. Bold, Italic, Underline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/04. Type Check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/05. Cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/06. HTML Tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Exercise/07. Execution Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Lab/01. Number Increment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Lab/02. Vowel Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Lab/03. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Decorators - Lab/04. Multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Testing - Lab/01. Test Worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Testing - Lab/02. Test Cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Testing - Lab/03. List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python OOP/Testing - Lab/04. Car Manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +62,8 @@
       <recent name="D:\Projects\SoftUni" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. Take Halves">
-    <configuration name="01. Take Skip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07. Execution Time">
+    <configuration name="03. Bold, Italic, Underline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/01. Take Skip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/03. Bold, Italic, Underline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Reverse Iter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Type Check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Lab/02. Reverse Iter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/04. Type Check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Cache" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Lab/03. Vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/05. Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Sequence Repeat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06. HTML Tags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/04. Sequence Repeat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/06. HTML Tags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Take Halves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07. Execution Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Iterators and Generators - Exercise/05. Take Halves.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python OOP/Decorators - Exercise/07. Execution Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +192,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.02. Reverse Iter" />
-      <item itemvalue="Python.03. Vowels" />
-      <item itemvalue="Python.01. Take Skip" />
-      <item itemvalue="Python.04. Sequence Repeat" />
-      <item itemvalue="Python.05. Take Halves" />
+      <item itemvalue="Python.03. Bold, Italic, Underline" />
+      <item itemvalue="Python.04. Type Check" />
+      <item itemvalue="Python.05. Cache" />
+      <item itemvalue="Python.06. HTML Tags" />
+      <item itemvalue="Python.07. Execution Time" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Take Halves" />
-        <item itemvalue="Python.04. Sequence Repeat" />
-        <item itemvalue="Python.01. Take Skip" />
-        <item itemvalue="Python.03. Vowels" />
-        <item itemvalue="Python.02. Reverse Iter" />
+        <item itemvalue="Python.07. Execution Time" />
+        <item itemvalue="Python.06. HTML Tags" />
+        <item itemvalue="Python.05. Cache" />
+        <item itemvalue="Python.04. Type Check" />
+        <item itemvalue="Python.03. Bold, Italic, Underline" />
       </list>
     </recent_temporary>
   </component>
