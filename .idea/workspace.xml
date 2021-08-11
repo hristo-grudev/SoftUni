@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Testing - Exercise/hero/test/test_hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Testing - Exercise/hero/test/test_hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Testing - Exercise/student/tests/test_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Testing - Exercise/student/tests/test_student.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,9 +199,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SoftUni$Unittests_in_test_hero_py.coverage" NAME="Unittests in test_hero.py Coverage Results" MODIFIED="1628529978303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Testing - Exercise" />
-    <SUITE FILE_PATH="coverage/SoftUni$Unittests_in_test_student_py.coverage" NAME="Unittests in test_student.py Coverage Results" MODIFIED="1628532071042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Testing - Exercise" />
   </component>
 </project>

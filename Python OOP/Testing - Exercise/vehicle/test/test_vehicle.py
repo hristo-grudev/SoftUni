@@ -32,7 +32,8 @@ class TstMammal(TestCase):
 		self.assertEqual("Too much fuel", str(e.exception))
 
 	def test_str(self):
-		self.assertEqual("The vehicle has 161 horse power with 80 fuel left and 1.25 fuel consumption", str(self.vehicle))
+		self.assertEqual("The vehicle has 161 horse power with 80 fuel left and 1.25 fuel consumption",
+		                 str(self.vehicle))
 
 
 if __name__ == "__main__":
