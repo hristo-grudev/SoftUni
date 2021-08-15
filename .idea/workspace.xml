@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83507b-d7c9-4140-9bb2-42a332be5225" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python OOP/Testing - Exercise/mammal/project/mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Testing - Exercise/mammal/project/mammal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python OOP/Testing - Exercise/hero/project/hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python OOP/Testing - Exercise/hero/project/hero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,8 +153,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.07. Execution Time" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.07. Execution Time" />
       <item itemvalue="Python tests.Unittests in test_hero.py" />
       <item itemvalue="Python tests.Unittests in test_mammal.py" />
       <item itemvalue="Python tests.Unittests in test_student.py" />
@@ -183,6 +182,7 @@
       <workItem from="1627196266825" duration="85000" />
       <workItem from="1627196477654" duration="17734000" />
       <workItem from="1628528569045" duration="3515000" />
+      <workItem from="1629041781528" duration="30000" />
     </task>
     <servers />
   </component>
