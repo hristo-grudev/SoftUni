@@ -1,3 +1,5 @@
-let a = 2;
-let b = 1;
-let c = 0;
+function solve(arr, delimiter) {
+    console.log(arr.join(delimiter))
+}
+
+solve(['One', 'Two'], '-')
