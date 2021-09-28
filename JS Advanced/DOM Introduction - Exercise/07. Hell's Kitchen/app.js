@@ -10,14 +10,14 @@ function solve() {
 
    for (let i = 0; i < inputArr.length; i++) {
       let [restaurantName, workersString] = inputArr[i].split(' - ');
-      let workers = workersString.split(', ').map(el => {
+      let inputWorkers = workersString.split(', ').map(el => {
          let [name, salary] = el.split(' ');
          return { name, salary: Number(salary)};
       });
-      if (restaurants[restaurantName]) {
+      if (!restaurants[restaurantName]) {
          restaurants[restaurantName] = {
             workers: [],
-            restaurantName,
+            restaurantName: restaurantName,
             getAverageSalary: function(w) {
                return w.reduce((acc, el) => acc + el, 0) / w.length;
             }
