@@ -70,7 +70,7 @@ function solve() {
       total += item.price;
       decFactor += item.decFactor;
     }
-    const result = `Bought furniture: ${names.join(', ')}/nTotal price: ${total.toFixed(2)}/nAverage decoration factor: ${decFactor / furniture.length}`;
+    const result = `Bought furniture: ${names.join(', ')}\nTotal price: ${total.toFixed(2)}\nAverage decoration factor: ${decFactor / furniture.length}`;
 
     output.value = result;
   }
