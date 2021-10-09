@@ -18,7 +18,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Arrays and Nested Arrays - Exercise\\07. Sorting Numbers.js"
+            "program": "${file}"
         }
     ]
 }
