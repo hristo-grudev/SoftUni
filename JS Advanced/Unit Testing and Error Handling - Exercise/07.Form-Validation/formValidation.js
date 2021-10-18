@@ -69,4 +69,4 @@ function validate() {
         document.querySelector("#valid").style.display = "none";
       }
     });
-  }
+}
