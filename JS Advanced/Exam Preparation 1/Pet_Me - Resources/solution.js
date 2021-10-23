@@ -11,7 +11,7 @@ function solve() {
 
         const [name, age, kind, owner] = fields.map(f => f.value.trim());
 
-        if (name == '' || age == '' || Number.isNaN(age) || kind == '' || owner == '') {
+        if (fields.map(f => f.value.trim()).some(v => v == '') || Number.isNaN(Number(age))) {
             return;
         }
 
@@ -55,6 +55,7 @@ function solve() {
     }
 
     function adopt(input, pet, event) {
+        console.log(event);
         const newOwner = input.value.trim();
 
         if (newOwner == '') {
