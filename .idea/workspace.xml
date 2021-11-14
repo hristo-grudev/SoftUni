@@ -153,8 +153,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.07. Execution Time" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python tests.Unittests in test_hero.py" />
       <item itemvalue="Python tests.Unittests in test_mammal.py" />
       <item itemvalue="Python tests.Unittests in test_student.py" />
@@ -202,8 +202,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SoftUni$Unittests_in_test_student_py.coverage" NAME="Unittests in test_student.py Coverage Results" MODIFIED="1630738615040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python OOP/Testing - Exercise" />
   </component>
 </project>

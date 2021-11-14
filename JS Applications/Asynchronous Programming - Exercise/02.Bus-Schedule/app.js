@@ -20,7 +20,7 @@ function solve() {
     }
 
     function arrive() {
-        label.textContent = `Arriveing at ${stop.name}`;
+        label.textContent = `Arriving at ${stop.name}`;
 
         departBtn.disabled = false;
         arriveBtn.disabled = true;
