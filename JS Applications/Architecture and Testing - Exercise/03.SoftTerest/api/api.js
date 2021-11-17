@@ -68,7 +68,7 @@ export async function login(email, password) {
     sessionStorage.setItem('userData', JSON.stringify(userData));
 }
 
-export async function login(email, password) {
+export async function register(email, password) {
     const result = await post('/users/register', {email, password});
 
     const userData = {
