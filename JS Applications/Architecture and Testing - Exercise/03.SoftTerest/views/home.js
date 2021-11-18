@@ -2,8 +2,15 @@ import { e } from '../dom.js';
 
 
 const section = document.getElementById('homePage');
-Selection.remove();
+section.remove();
+section.querySelector('#getStartedLink').addEventListener('click', (ev) => {
+    ev.preventDefault();
+    ctx.goTo('catalog');
+});
 
-export async function showHomePage(ctx) {
+let ctx = null;
+
+export async function showHomePage(ctxTarget) {
+    ctx = ctxTarget;
     ctx.showSection(section);
 }
