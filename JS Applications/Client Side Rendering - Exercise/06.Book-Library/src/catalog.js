@@ -1,30 +1,36 @@
-import { html } from './utility.js';
+import { getBooks, html, until } from './utility.js';
 
-const catalogTemplate = (books) => html`
+const catalogTemplate = (booksPromise) => html`
 <table>
     <thead>
-    <tr>
-        <th>Title</th>
-        <th>Author</th>
-        <th>Action</th>
-    </tr>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Action</th>
+        </tr>
     </thead>
     <tbody>
-    <tr>
-        <td>Harry Potter</td>
-        <td>J. K. Rowling</td>
-        <td>
-            <button class="edit">Edit</button>
-            <button class="delete">Delete</button>
-        </td>
-    </tr>
-    <tr>
-        <td>Game of Thrones</td>
-        <td>George R. R. Martin</td>
-        <td>
-            <button>Edit</button>
-            <button>Delete</button>
-        </td>
-    </tr>
+        ${until(booksPromise), html`<tr><td colspan="3">Loading&hellip;</td></tr>`}
     </tbody>
 </table>`;
+
+
+const bookRow = (book) => html`
+<tr>
+    <td>${book.title}</td>
+    <td>${book.author}</td>
+    <td>
+        <button class="edit">Edit</button>
+        <button class="delete">Delete</button>
+    </td>
+</tr>`;
+
+export function showCatalog(ctx) {
+    return catalogTemplate();
+}
+
+async function loadBooks() {
+    const books = await getBooks();
+
+    return Object.values(books).map(bookRow);
+}

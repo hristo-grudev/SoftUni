@@ -1,17 +1,30 @@
-const request = async (url, options = {}) => {
-	const response = await fetch(url, options)
-	const result = response.json()
+import { html } from './utility.js';
 
-	return result
+
+const createTemplate = (onSuccess) => html`
+<form @submit=${ev => onSubmit(ev, onSuccess)} id="add-form">
+    <h3>Add book</h3>
+    <label>TITLE</label>
+    <input type="text" name="title" placeholder="Title...">
+    <label>AUTHOR</label>
+    <input type="text" name="author" placeholder="Author...">
+    <input type="submit" value="Submit">
+</form>`;
+
+export function showCreate(ctx) {
+	return createTemplate(ctx.update);
 }
 
-const createOptions = (method = 'GET', headers = {}, data = {}) => {
-	return {
-		method,
-		headers: { ...{ 'Content-Type': 'application/json', }, ...headers },
-		body: JSON.stringify(data)
-	}
+async function onSubmit(event, onSuccess) {
+	event.preventDefault();
+	const formData = new FormData(event.target);
+
+	const title = formData.get('title').trim();
+	const title = formData.get('title').trim();
+
+	await createBook({ title, author });
+
+	event.target.reset();
+	onSuccess();
+
 }
-
-export { request, createOptions }
-
