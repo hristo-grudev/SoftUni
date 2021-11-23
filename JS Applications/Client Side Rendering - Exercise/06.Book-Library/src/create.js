@@ -1,4 +1,4 @@
-import { html } from './utility.js';
+import { createBook, html } from './utility.js';
 
 
 const createTemplate = (onSuccess) => html`
@@ -12,15 +12,20 @@ const createTemplate = (onSuccess) => html`
 </form>`;
 
 export function showCreate(ctx) {
-	return createTemplate(ctx.update);
+	if (ctx.book != undefined){
+		return null;
+	} else {
+		return createTemplate(ctx.update);
+	}
 }
+	
 
 async function onSubmit(event, onSuccess) {
 	event.preventDefault();
 	const formData = new FormData(event.target);
 
 	const title = formData.get('title').trim();
-	const title = formData.get('title').trim();
+	const author = formData.get('author').trim();
 
 	await createBook({ title, author });
 

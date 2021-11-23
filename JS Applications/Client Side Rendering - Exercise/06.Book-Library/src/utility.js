@@ -1,5 +1,5 @@
 import { html, render } from '../node_modules/lit-html/lit-html.js';
-import { until } from '../node_modules/lit-html/directive/until.js';
+import { until } from '../node_modules/lit-html/directives/until.js';
 
 export {
 	html,
@@ -20,7 +20,7 @@ async function request(url, method = 'get', data) {
 		options.body = JSON.stringify(data);
 	}
 
-	const response = await fetch(url + url, options);
+	const response = await fetch(host + url, options);
 
 	if (response.ok == false) {
 		const error = await response.json();
