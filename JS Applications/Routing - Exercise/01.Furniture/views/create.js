@@ -14,29 +14,29 @@ const createTemplate = (onSubmit, errorMsg, errors) => html`
         <div class="col-md-4">
             <div class="form-group">
                 <label class="form-control-label" for="new-make">Make</label>
-                <input class=${"form-control" + (errors.make ? 'is-invalid' : '')} id="new-make" type="text" name="make">
+                <input class=${"form-control" + (errors.make ? ' is-invalid' : '')} id="new-make" type="text" name="make">
             </div>
             <div class="form-group has-success">
                 <label class="form-control-label" for="new-model">Model</label>
-                <input class=${"form-control" + (errors.model ? 'is-invalid' : '')} id="new-model" type="text" name="model">
+                <input class=${"form-control" + (errors.model ? ' is-invalid' : '')} id="new-model" type="text" name="model">
             </div>
             <div class="form-group has-danger">
                 <label class="form-control-label" for="new-year">Year</label>
-                <input class=${"form-control" + (errors.year ? 'is-invalid' : '')} id="new-year" type="number" name="year">
+                <input class=${"form-control" + (errors.year ? ' is-invalid' : '')} id="new-year" type="number" name="year">
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-description">Description</label>
-                <input class=${"form-control" + (errors.description ? 'is-invalid' : '')} id="new-description" type="text" name="description">
+                <input class=${"form-control" + (errors.description ? ' is-invalid' : '')} id="new-description" type="text" name="description">
             </div>
         </div>
         <div class="col-md-4">
             <div class="form-group">
                 <label class="form-control-label" for="new-price">Price</label>
-                <input class=${"form-control" + (errors.price ? 'is-invalid' : '')} id="new-price" type="number" name="price">
+                <input class=${"form-control" + (errors.price ? ' is-invalid' : '')} id="new-price" type="number" name="price">
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-image">Image</label>
-                <input class=${"form-control" + (errors.img ? 'is-invalid' : '')} id="new-image" type="text" name="img">
+                <input class=${"form-control" + (errors.img ? ' is-invalid' : '')} id="new-image" type="text" name="img">
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-material">Material (optional)</label>

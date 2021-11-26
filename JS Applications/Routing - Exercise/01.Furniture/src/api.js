@@ -83,6 +83,6 @@ export async function register(email, password) {
 
 
 export async function logout() {
-    // await get('/user/logout');
+    await get('/users/logout');
     clearUserData();
 }

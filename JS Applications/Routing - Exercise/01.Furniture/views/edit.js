@@ -18,29 +18,29 @@ const formTemplate = (item, onSubmit, errorMsg, errors) => html`
         <div class="col-md-4">
             <div class="form-group">
                 <label class="form-control-label" for="new-make">Make</label>
-                <input class=${"form-control" + (errors.make ? 'is-invalid' : '')} id="new-make" type="text" name="make" .value=${item.make}>
+                <input class=${"form-control" + (errors.make ? ' is-invalid' : '')} id="new-make" type="text" name="make" .value=${item.make}>
             </div>
             <div class="form-group has-success">
                 <label class="form-control-label" for="new-model">Model</label>
-                <input class=${"form-control" + (errors.model ? 'is-invalid' : '')} id="new-model" type="text" name="model" .value=${item.model}>
+                <input class=${"form-control" + (errors.model ? ' is-invalid' : '')} id="new-model" type="text" name="model" .value=${item.model}>
             </div>
             <div class="form-group has-danger">
                 <label class="form-control-label" for="new-year">Year</label>
-                <input class=${"form-control" + (errors.year ? 'is-invalid' : '')} id="new-year" type="number" name="year" .value=${item.year}>
+                <input class=${"form-control" + (errors.year ? ' is-invalid' : '')} id="new-year" type="number" name="year" .value=${item.year}>
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-description">Description</label>
-                <input class=${"form-control" + (errors.description ? 'is-invalid' : '')} id="new-description" type="text" name="description" .value=${item.description}>
+                <input class=${"form-control" + (errors.description ? ' is-invalid' : '')} id="new-description" type="text" name="description" .value=${item.description}>
             </div>
         </div>
         <div class="col-md-4">
             <div class="form-group">
                 <label class="form-control-label" for="new-price">Price</label>
-                <input class=${"form-control" + (errors.price ? 'is-invalid' : '')} id="new-price" type="number" name="price" .value=${item.price}>
+                <input class=${"form-control" + (errors.price ? ' is-invalid' : '')} id="new-price" type="number" name="price" .value=${item.price}>
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-image">Image</label>
-                <input class=${"form-control" + (errors.img ? 'is-invalid' : '')} id="new-image" type="text" name="img" .value=${item.img}>
+                <input class=${"form-control" + (errors.img ? ' is-invalid' : '')} id="new-image" type="text" name="img" .value=${item.img}>
             </div>
             <div class="form-group">
                 <label class="form-control-label" for="new-material">Material (optional)</label>
