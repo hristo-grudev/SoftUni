@@ -1,5 +1,5 @@
 
-import { page, remder } from './lib.js';
+import { page, render } from './lib.js';
 import * as api from './api/data.js'
 import { homePage } from './views/home.js';
 import { catalogPage } from './views/catalog.js';
@@ -10,6 +10,7 @@ import { getUserData } from './util.js';
 import { createPage } from './views/create.js';
 import { detailsPage } from './views/details.js';
 import { editPage } from './views/edit.js';
+import { profilePage } from './views/profile.js';
 
 const root = document.querySelector('main');
 
@@ -21,6 +22,7 @@ page('/register', registerPage);
 page('/create', createPage);
 page('/details', detailsPage);
 page('/edit/:id', editPage);
+page('/profile', profilePage);
 
 updateUserNav();
 page.start();
@@ -36,6 +38,7 @@ function decorateContext(ctx, next) {
 function onLogout() {
 	logout();
 	updateUserNav();
+	page.redirect('/');
 }
 
 function updateUserNav() {
