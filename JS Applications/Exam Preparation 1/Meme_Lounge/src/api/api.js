@@ -12,13 +12,13 @@ async function request(url, options) {
                 clearUserData();
             }
             const error = await response.json();
-            throw new Error('error.message');        
+            throw new Error(error.message);        
         }
 
-        if (response.status == 204) {
+        try {
+            return await response.json();
+        } catch(err) {
             return response;
-        } else {
-            return response.json();
         }
     } catch (err) {
         // alert(err.message);
@@ -75,7 +75,7 @@ export async function login(email, password) {
     return result;
 }
 
-export async function register(email, password) {
+export async function register( username, email, password, gender ) {
     const result = await post('/users/register', { username, email, password, gender });
 
     const userData = {
@@ -91,6 +91,6 @@ export async function register(email, password) {
 
 
 export async function logout() {
-     get('/user/logout');
+    get('/users/logout');
     clearUserData();
 }

@@ -50,7 +50,7 @@ export function registerPage(ctx) {
             return notify("Passwords don't match!");
         }
 
-        await register(email, password);
+        await register(username, email, password, gender);
         ctx.updateUserNav();
         ctx.page.redirect('/memes');
     }

@@ -1,4 +1,4 @@
-import { editMeme } from '../api/data.js';
+import { editMeme, getMemeById } from '../api/data.js';
 import { html } from '../lib.js';
 import { notify } from '../notify.js';
 

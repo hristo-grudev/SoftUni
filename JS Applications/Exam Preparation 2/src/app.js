@@ -1,3 +1,4 @@
+import { logout } from './api/api.js';
 import { page, render } from './lib.js';
 import { getUserData } from './util.js';
 import { createPage } from './views/create.js';
@@ -7,6 +8,7 @@ import { homePage } from './views/home.js';
 import { loginPage } from './views/login.js';
 import { myBooksPage } from './views/my-books.js';
 import { registerPage } from './views/register.js';
+import { searchPage } from './views/search.js';
 
 
 const root = document.getElementById('site-content');
@@ -17,8 +19,9 @@ page('/my-books', myBooksPage);
 page('/login', loginPage);
 page('/register', registerPage);
 page('/create', createPage);
-page('/details', detailsPage);
+page('/details/:id', detailsPage);
 page('/edit/:id', editPage);
+page('/search', searchPage);
 
 updateUserNav();
 page.start();
@@ -43,11 +46,11 @@ function updateUserNav() {
 	const userData = getUserData();
 
 	if (userData) {
-		document.getElementById('user').style.block = 'inline-block';
-		document.getElementById('guest').style.block = 'none';
+		document.getElementById('user').style.display = 'inline-block';
+		document.getElementById('guest').style.display = 'none';
 		document.querySelector('#user span').textContent = `Welcome, ${userData.email}`;
 	} else{
-		document.getElementById('user').style.block = 'none';
-		document.getElementById('guest').style.block = 'inline-block';
+		document.getElementById('user').style.display = 'none';
+		document.getElementById('guest').style.display = 'inline-block';
 	}
 }

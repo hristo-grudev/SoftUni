@@ -9,7 +9,7 @@ const editTemplate = (book, onSubmit) => html`
             <p class="field">
                 <label for="title">Title</label>
                 <span class="input">
-                    <input type="text" name="title" id="title" .value=${book.book}>
+                    <input type="text" name="title" id="title" .value=${book.title}>
                 </span>
             </p>
             <p class="field">
@@ -22,7 +22,7 @@ const editTemplate = (book, onSubmit) => html`
             <p class="field">
                 <label for="image">Image</label>
                 <span class="input">
-                    <input type="text" name="imageUrl" id="image" .value=${book.image}>
+                    <input type="text" name="imageUrl" id="image" .value=${book.imageUrl}>
                 </span>
             </p>
             <p class="field">
@@ -52,15 +52,15 @@ export async function editPage(ctx) {
 
         const title = formData.get('title').trim();
         const description = formData.get('description').trim();
-        const image = formData.get('image').trim();
+        const imageUrl = formData.get('imageUrl').trim();
         const type = formData.get('type').trim();
 
-        if (title == '' || description == '' || image == '' || type == '') {
+        if (title == '' || description == '' || imageUrl == '' || type == '') {
             return alert('All fields are requierd!');
         }
 
 
-        await editBook({
+        await editBook(book._id, {
             title,
             description,
             imageUrl,

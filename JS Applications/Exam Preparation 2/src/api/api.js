@@ -1,4 +1,3 @@
-import { notify } from "../notify.js";
 import { clearUserData, getUserData, setUserData } from "../util.js";
 
 const host = 'http://localhost:3030'
@@ -12,7 +11,7 @@ async function request(url, options) {
                 clearUserData();
             }
             const error = await response.json();
-            throw new Error('error.message');        
+            throw new Error(error.message);        
         }
 
         if (response.status == 204) {
@@ -22,7 +21,7 @@ async function request(url, options) {
         }
     } catch (err) {
         // alert(err.message);
-        notify(err.message);
+        alert(err.message);
         throw err;
     }
 }
@@ -65,10 +64,8 @@ export async function login(email, password) {
     const result = await post('/users/login', {email, password});
 
     const userData = {
-        username: result.username,
         email: result.email,
         id: result._id,
-        gender: result.gender,
         token: result.accessToken
     }
     setUserData(userData);
@@ -76,13 +73,11 @@ export async function login(email, password) {
 }
 
 export async function register(email, password) {
-    const result = await post('/users/register', { username, email, password, gender });
+    const result = await post('/users/register', {  email, password });
 
     const userData = {
-        username: result.username,
         email: result.email,
         id: result._id,
-        gender: result.gender,
         token: result.accessToken
     }
     setUserData(userData);
@@ -91,6 +86,6 @@ export async function register(email, password) {
 
 
 export async function logout() {
-     get('/user/logout');
+     get('/users/logout');
     clearUserData();
 }

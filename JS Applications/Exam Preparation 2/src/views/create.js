@@ -50,13 +50,12 @@ export function createPage(ctx) {
 
         const title = formData.get('title').trim();
         const description = formData.get('description').trim();
-        const image = formData.get('image').trim();
+        const imageUrl = formData.get('imageUrl').trim();
         const type = formData.get('type').trim();
 
-        if (title == '' || description == '' || image == '' || type == '') {
+        if (title == '' || description == '' || imageUrl == '' || type == '') {
             return alert('All fields are requierd!');
         }
-
 
         await createBook({
             title,

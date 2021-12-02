@@ -1,3 +1,4 @@
+import { getAllMemes } from '../api/data.js';
 import { html } from '../lib.js';
 
 const catalogTemplate = (memes) => html`

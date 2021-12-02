@@ -36,7 +36,7 @@ export async function detailsPage(ctx) {
     const isOwner = userData && meme._ownerId == userData.id;
     ctx.render(detailsTemplate(meme, isOwner, onDelete));
 
-    async function onDelete(event) {
+    async function onDelete() {
         const choice = confirm('Are you sure you want to detele this meme?');
 
         if (choice) {

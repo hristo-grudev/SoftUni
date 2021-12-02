@@ -1,4 +1,4 @@
-import { deleteById, getBookById } from '../api/data.js';
+import { deleteBook, getBookById, getLikesByBookId, getMyLikeByBookId, likeBook } from '../api/data.js';
 import { html } from '../lib.js';
 import { getUserData } from '../util.js';
 
@@ -7,7 +7,7 @@ const detailsTemplate = (book, isOwner, onDelete, likes, showLikeButton, onLike)
     <div class="book-information">
         <h3>${book.title}</h3>
         <p class="type">Type: ${book.type}</p>
-        <p class="img"><img src=${book.titimagele}></p>
+        <p class="img"><img src=${book.imageUrl}></p>
         <div class="actions">
             <!-- Edit/Delete buttons ( Only for creator of this book )  -->
             ${bookControlsTemplate(book, isOwner, onDelete)}
@@ -56,18 +56,20 @@ export async function detailsPage(ctx) {
     ]);
     const isOwner = userData && book._ownerId == userData.id;
     const showLikeButton = userData != null && isOwner == false && hasLike == false;
+
     ctx.render(detailsTemplate(book, isOwner, onDelete, likes, showLikeButton, onLike));
 
     async function onDelete() {
         const choice = confirm(`Are you sure you want to detele ${book.title}?`);
 
         if (choice) {
-            await deleteById(ctx.params.id);
+            await deleteBook(ctx.params.id);
             ctx.page.redirect('/');
         }
     }
 
     async function onLike() {
-
+        await likeBook(ctx.params.id);
+        ctx.page.redirect('/details/' + ctx.params.id);
     }
 }

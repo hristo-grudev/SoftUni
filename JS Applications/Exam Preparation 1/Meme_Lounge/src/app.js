@@ -1,6 +1,5 @@
 
 import { page, render } from './lib.js';
-import * as api from './api/data.js'
 import { homePage } from './views/home.js';
 import { catalogPage } from './views/catalog.js';
 import { loginPage } from './views/login.js';
@@ -20,7 +19,7 @@ page('/memes', catalogPage);
 page('/login', loginPage);
 page('/register', registerPage);
 page('/create', createPage);
-page('/details', detailsPage);
+page('/details/:id', detailsPage);
 page('/edit/:id', editPage);
 page('/profile', profilePage);
 
@@ -45,11 +44,12 @@ function updateUserNav() {
 	const userData = getUserData();
 
 	if (userData) {
-		document.getElementsByClassName('user').style.block = 'block';
-		document.getElementsByClassName('guest').style.block = 'none';
+		document.querySelector('.user').style.display = 'block';
+		document.querySelector('.guest').style.display = 'none';
 		document.querySelector('.user span').textContent = `Welcome, ${userData.email}`;
 	} else{
-		document.getElementsByClassName('user').style.block = 'none';
-		document.getElementsByClassName('guest').style.block = 'block';
+		document.querySelector('.user').style.display = 'none';
+		document.querySelector('.guest').style.display = 'block';
+
 	}
 }
